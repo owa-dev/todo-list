@@ -15,5 +15,5 @@ This is a productivity ToDoList app which uses browsers' local storage for stori
 # Future Improvements
 
 - Create a registration page and a database to store the tasks so it will be available on every device.
-  <br>
+  <br>  <br>
   Live: https://owa-dev.github.io/todo-list/
